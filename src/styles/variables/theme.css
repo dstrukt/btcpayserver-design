@@ -58,7 +58,7 @@
   --btcpay-form-text-label: var(--btcpay-neutral-700);
   --btcpay-form-text-addon: var(--btcpay-neutral-700);
   --btcpay-form-border: var(--btcpay-neutral-300);
-  --btcpay-form-border-focus: var(--btcpay-form-border);
+  --btcpay-form-border-focus: var(--btcpay-brand-primary);
   --btcpay-form-border-active: var(--btcpay-form-border);
   --btcpay-form-border-disabled: var(--btcpay-form-border);
   --btcpay-form-shadow-focus: var(--btcpay-primary-shadow);

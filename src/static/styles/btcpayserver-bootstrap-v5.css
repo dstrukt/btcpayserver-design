@@ -1812,7 +1812,7 @@ progress {
   background-color: var(--btcpay-form-bg);
   border-color: var(--btcpay-form-border-focus);
   outline: 0;
-  box-shadow: 0 0 0 0.25rem var(--btcpay-form-shadow-focus);
+  box-shadow: transparent;
 }
 
 .form-control::-webkit-date-and-time-value {
@@ -2066,7 +2066,7 @@ textarea.form-control-lg {
 .form-check-input:focus {
   border-color: var(--btcpay-form-border-focus);
   outline: 0;
-  box-shadow: 0 0 0 0.25rem var(--btcpay-form-shadow-focus);
+  box-shadow: transparent;
 }
 
 .form-check-input:checked {
@@ -2152,11 +2152,11 @@ textarea.form-control-lg {
 }
 
 .form-range:focus::-webkit-slider-thumb {
-  box-shadow: 0 0 0 0.25rem var(--btcpay-form-shadow-focus);
+  box-shadow: transparent;
 }
 
 .form-range:focus::-moz-range-thumb {
-  box-shadow: 0 0 0 0.25rem var(--btcpay-form-shadow-focus);
+  box-shadow: transparent;
 }
 
 .form-range::-moz-focus-outer {
