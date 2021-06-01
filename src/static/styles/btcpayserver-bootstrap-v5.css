@@ -4410,7 +4410,7 @@ fieldset:disabled .btn {
   color: var(--btcpay-body-link);
   background-color: var(--btcpay-body-bg-hover);
   outline: 0;
-  box-shadow: 0 0 0 0.25rem var(--btcpay-body-shadow);
+  box-shadow: transparent;
 }
 
 .page-item:not(:first-child) .page-link {

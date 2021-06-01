@@ -49,7 +49,7 @@ $pagination-hover-border-color: $pagination-border-color;
 
 $pagination-focus-color: $pagination-hover-color;
 $pagination-focus-bg: $pagination-hover-bg;
-$pagination-focus-box-shadow: 0 0 0 0.25rem var(--btcpay-body-shadow);
+$pagination-focus-box-shadow: transparent;
 
 $pagination-active-color: var(--btcpay-body-text-active);
 $pagination-active-bg: var(--btcpay-body-bg-active);
@@ -123,6 +123,7 @@ $input-disabled-border-color: var(--btcpay-form-border-disabled);
 $input-focus-bg: $input-bg;
 $input-focus-border-color: var(--btcpay-form-border-focus);
 $input-focus-box-shadow: transparent;
+
 $form-check-input-bg: var(--btcpay-form-bg);
 $form-check-input-border: 1px solid var(--btcpay-form-border);
 $form-check-input-focus-border: $input-focus-border-color;
