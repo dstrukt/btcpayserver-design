@@ -15,6 +15,7 @@ a,
 a.nav-link {
   background: var(--btcpay-nav-bg);
   border-left-color: var(--btcpay-nav-border);
+  font-weight: var(--btcpay-font-weight-semibold);  
 }
 
 a.nav-link:focus,
